@@ -1,4 +1,4 @@
-# iOSApp2 - Scavenger Hunt App (Assignment 4)
+# iOSApp2 - Scavenger Hunt App 
 
 ## Description
 A polished scavenger hunt app that helps users find hidden items at local businesses. Users get clues, take photos (or choose default images), apply creative shapes, track progress, and earn discounts. Data persists between app launches.
