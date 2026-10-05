@@ -58,7 +58,7 @@ class ScavengerStore: ObservableObject {
         let savedItems = Self.load()
         if savedItems.isEmpty {
             
-            // The 10 default scavenger hunt items from Assignment 3.
+            // Default initial catalog of scavenger hunt discovery locations.
             
             self.items = [
                 ScavengerItem(name: "Coffee Shop", clue: "Smells like fresh coffee beans"),
